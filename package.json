@@ -1,0 +1,17 @@
+{
+  "name": "videostreamer",
+  "version": "1.0.0",
+  "description": "this is a mern stack application with a complex backend with a lot of features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mern",
+    "video",
+    "streamer",
+    "backend"
+  ],
+  "author": "Nihal Mohammad Ali",
+  "license": "ISC"
+}
